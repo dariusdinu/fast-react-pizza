@@ -36,6 +36,19 @@ A small React application simulating a pizza company website where users can ord
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/10302be3-1b32-46b7-a6f0-5195a0517865)
+
+![image](https://github.com/user-attachments/assets/a49a3df3-c575-4129-9fb0-1276fe03ed25)
+
+![image](https://github.com/user-attachments/assets/54a87734-c317-43ae-8e1b-5eb6c7b09cf2)
+
+![image](https://github.com/user-attachments/assets/ff4ca4b3-2bf0-408c-8fcf-af9ba707fe13)
+
+![image](https://github.com/user-attachments/assets/3100967c-282f-4882-8a0d-18fe52862d34)
+
+![image](https://github.com/user-attachments/assets/98768ab0-0b45-4fb7-9e34-dd15b9fa9d09)
+
+
 ## License
 
 This project is for personal educational purposes and belongs to Jonas Schmedtmann, the instructor of the Udemy course from which this project originates.
